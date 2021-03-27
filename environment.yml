@@ -1,0 +1,8 @@
+name: onpolicy-control
+dependencies:
+  - python=3.6
+  - pip
+  - pip:
+    - gym==0.18.0
+    - numpy==1.19.4
+    - tqdm==4.55.1
